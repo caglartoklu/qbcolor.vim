@@ -2,6 +2,9 @@
 
 **qbcolor.vim** is a Vim colorscheme that looks like good old [Microsoft QuickBASIC](https://en.wikipedia.org/wiki/QuickBASIC).
 
+Vim script page:
+https://www.vim.org/scripts/script.php?script_id=5787
+
 It is based on
 [ibmedit.vim](https://www.vim.org/scripts/script.php?script_id=385)
 colorscheme by [maarten s](https://www.vim.org/account/profile.php?user_id=955).
