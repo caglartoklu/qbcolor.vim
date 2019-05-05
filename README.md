@@ -9,19 +9,17 @@ colorscheme by [maarten s](https://www.vim.org/account/profile.php?user_id=955).
 
 # Screenshots
 
-
 ## qbcolor.vim on Vim on Windows 10
 
-![qbcolor_vim_on_windows](#)
+![qbcolor_vim_on_windows](https://user-images.githubusercontent.com/2071639/57197863-c5fb9700-6f74-11e9-95f1-1699e4df0981.png)
 
 ## qbcolor.vim on Vim on [DOSBox](https://www.dosbox.com/)
 
-![qbcolor_vim_on_dosbox](#)
+![qbcolor_vim_on_dosbox](https://user-images.githubusercontent.com/2071639/57197862-c300a680-6f74-11e9-842f-cb1c50182f44.png)
 
 ## qbcolor.vim on QuickBASIC 4.5 on DOSBox
 
-![qbcolor_qb45_on_dosbox](#)
-
+![qbcolor_qb45_on_dosbox](https://user-images.githubusercontent.com/2071639/57197858-bda35c00-6f74-11e9-8b9e-6cef8645364e.png)
 
 The file in the screenshots is [Gorilla.bas](https://en.wikipedia.org/wiki/Gorillas_(video_game)),
 a video game first distributed with MS-DOS 5.0 that we have played a lot :)
