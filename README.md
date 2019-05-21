@@ -16,6 +16,16 @@ colorscheme by [maarten s](https://www.vim.org/account/profile.php?user_id=955).
 
 ![qbcolor_vim_on_windows](https://user-images.githubusercontent.com/2071639/57197863-c5fb9700-6f74-11e9-95f1-1699e4df0981.png)
 
+The font used in the screenshot:
+
+```
+set gfn=PxPlus_IBM_VGA9:h18:cANSI:qDRAFT
+```
+
+It can be downloaded here:
+https://int10h.org/oldschool-pc-fonts/readme/
+
+
 ## qbcolor.vim on Vim on [DOSBox](https://www.dosbox.com/)
 
 ![qbcolor_vim_on_dosbox](https://user-images.githubusercontent.com/2071639/57197862-c300a680-6f74-11e9-842f-cb1c50182f44.png)
