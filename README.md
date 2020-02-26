@@ -38,6 +38,54 @@ The file in the screenshots is [Gorilla.bas](https://en.wikipedia.org/wiki/Goril
 a video game first distributed with MS-DOS 5.0 that we have played a lot :)
 
 
+# Options
+
+If the original color is too blue or bright, the following options can be used to make the background darker, since the background color is customizable.
+
+To do so, one of the following code snippets should be added to VIMRC, before the following line:
+
+```
+colorscheme qbcolor
+```
+
+## `dark_blue` background
+
+```viml
+let g:qbcolor_bg = "dark_blue"
+```
+
+![](https://user-images.githubusercontent.com/2071639/75359285-4228e780-58c5-11ea-8929-999aae528bc9.png)
+
+![](https://user-images.githubusercontent.com/2071639/75359277-3f2df700-58c5-11ea-8d7c-50c7803b38b1.png)
+
+## `dark_gray` background
+
+```viml
+let g:qbcolor_bg = "dark_gray"
+```
+
+![](https://user-images.githubusercontent.com/2071639/75359296-45bc6e80-58c5-11ea-8bf0-81d69e048c05.png)
+
+
+## `black` background
+
+```viml
+let g:qbcolor_bg = "black"
+```
+
+![](https://user-images.githubusercontent.com/2071639/75359307-4a812280-58c5-11ea-8e52-726a948e4691.png)
+
+![](https://user-images.githubusercontent.com/2071639/75359301-481ec880-58c5-11ea-9fe3-efc199472ada.png)
+
+## Restoring the original blue
+
+Simply delete the `let g:qbcolor_bg = ".."` line. The blue background can also be explicitely set:
+
+```viml
+let g:qbcolor_bg = "qb_blue"
+```
+
+
 # Installation
 
 For [Vundle](https://github.com/gmarik/vundle) users:
